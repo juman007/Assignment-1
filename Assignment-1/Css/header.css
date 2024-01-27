@@ -1,0 +1,46 @@
+.header-container {
+    /* border: 1px solid red; */
+    height: 100px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    column-gap: 80px;
+    margin: 15px 0;
+}
+
+.header-col-1 {
+    /* border: 1px solid red; */
+    height: 100px;
+    width: 190px;
+}
+
+.logo {
+    width: 84%;
+    height: 100%;
+    background-image: url("../images/cblogo.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.header-col-2 {
+    /* border: 1px solid red; */
+    height: 100px;
+}
+
+#heading-text {
+    font-size: 31px;
+    text-decoration: underline;
+}
+
+.header-col-3 {
+    /* border: 1px solid red; */
+    height: 100px;
+    width: 150px;
+    font-size: 21px;
+}
+
+input.check-box {
+    margin-right: 10px;
+    width: 20px;
+    height: 18px;
+}

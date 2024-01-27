@@ -1,0 +1,45 @@
+.end-container {
+    /* border: 1px solid black; */
+    height: 300px;
+    width: 80%;
+    margin: auto;
+    display: flex;
+    justify-content: flex-start;
+    margin-top: -37px;
+}
+
+.row-1-checkbox {
+    display: flex;
+    column-gap: 98px;
+    margin-left: 20px;
+    margin-top: 13px;
+    /* align-items: center; */
+}
+
+.row-2 {
+    margin-top: 23px;
+}
+
+.row-3 {
+    margin-left: -21px;
+    margin-top: 18px;
+}
+
+.vnc-roll-no {
+    margin-top: 18px;
+}
+.sign-student{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    font-size: 21px;
+    margin-top: 28px;
+}
+.sign-1{
+    margin-bottom:15px;
+}
+.sign-2{
+   flex-basis: 100%;
+margin-bottom: 30px;
+}

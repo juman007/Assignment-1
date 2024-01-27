@@ -1,0 +1,40 @@
+.user-information {
+    /* border: 1px solid red; */
+    height: 300px;
+    width: 80%;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+.user-input-text {
+    /* border: 1px solid black; */
+    width: 48%;
+    height: 300px;
+}
+
+.user-input-write {
+    /* border: 1px solid blue; */
+    height: 300px;
+    width: 48%;
+    display: flex;
+    justify-content: space-around;
+}
+
+.user-input-text {
+    display: flex;
+    justify-content: space-around;
+}
+
+.user-text {
+    font-size: 24px;
+    margin-bottom: 17px;
+    width: 161px;
+}
+
+.input-write {
+    font-size: 24px;
+    margin-bottom: 13px;
+    margin-left: 21px;
+    width: 410px;
+}

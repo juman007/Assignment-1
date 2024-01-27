@@ -1,0 +1,40 @@
+.interested-course {
+    /* border: 1px solid black; */
+    height: 400px;
+    width: 81%;
+    margin: auto;
+    margin-top: 23px;
+}
+
+.interested-course-container {
+    display: flex;
+    justify-content: space-between;
+    height: 300px;
+    margin-left: 25px;
+}
+
+.interested-course-left {
+    /* border: 1px solid black; */
+    width: 50%;
+    height: 300px;
+}
+
+.interested-course-right {
+    /* border: 1px solid red; */
+    width: 50%;
+    height: 300px;
+}
+
+.courses-select-box {
+    font-size: 24px;
+    margin-bottom: 12px;
+}
+
+.interested-course-heading {
+    margin-bottom: 19px;
+}
+
+.courses-select-box input {
+    width: 20px;
+    height: 20px;
+}
